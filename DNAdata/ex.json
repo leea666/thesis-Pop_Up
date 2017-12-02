@@ -1,0 +1,464 @@
+{
+	"name": "Chromosome #", "dataViz": "Data Visualization of 23andMe Data","children": [ {
+			"name": "Traits",
+			"topic" : "Traits",
+			"children":[
+				{ "name": "Asparagus Odor Detection", "size": 1, "children":[
+					{"name": "rs4481887", "chromosome": 1, "size":1}
+				]},
+				{ "name": "Bitter Taste", "size": 1, "children":[
+					{"name":"TAS2R4", "gene": "TAS2R4", "chromosome":7, "size":1},
+					{"name":"TAS2R5", "gene": "TAS2R5", "chromosome":7, "size":1},
+					{"name":"TAS2R16", "gene": "TAS2R16", "chromosome":7, "size":1},
+					{"name":"TAS2R8", "gene": "TAS2R8", "chromosome":12, "size":1},
+					{"name":"TAS2R38", "gene": "TAS2R38", "chromosome":12, "size":1},
+					{"name":"TAS2R48", "gene": "TAS2R48", "chromosome":12, "size":1}
+				]},
+				{ "name": "Sweet Taste", "size": 1, "children":[
+					{"name":"TAS1R2", "gene":"TAS1R2", "chromosome":1, "size":1}
+				]},
+				{ "name": "Back Hair", "size": 1},
+				{ "name": "Bald Spot", "size": 1},
+				{ "name": "Cheek Dimples", "size": 1},
+				{ "name": "Cleft Chin", "size": 1},
+				{ "name": "Earlobe Type", "size": 1},
+				{ "name": "Earwax Type", "size": 1, "children":[
+					{"name": "ABCC11", "gene": "ABCC11", "size":1, "children":[
+						{"name":"rs17822931", "chromosome":16, "size":1}
+					]}
+				]},
+				{ "name": "Eye Color", "size": 1, "children":[
+					{"name":"HERC2", "gene": "HERC2", "size":1, "children":[
+						{"name":"rs12913832", "chromosome":15, "size":1}
+					]}
+				]},
+				{ "name": "Finger Length Ratio", "size": 1},
+				{ "name": "Freckles", "size": 1},
+				{ "name": "Hair Curliness", "size": 1},
+				{ "name": "Light or Dark Hair", "size": 1},
+				{ "name": "Male Hair Loss", "size": 1, "children":[
+					{"name":"AR (NR3C4)", "gene": "AR (NR3C4)", "size":1, "children":[
+						{"name":"rs2223841", "chromosome":"X", "size":1}
+					]},
+					{"name":"AR", "gene": "AR", "size":1, "children":[
+						{"name":"rs6152", "chromosome":"X", "size":1}
+					]},
+					{"name":"intergenic", "gene": "intergenic", "size":1, "children":[
+						{"name":"rs925391", "chromosome":"X", "size":1}
+					]},
+					{"name":"20p11", "gene": "20p11", "size":1, "children":[
+						{"name":"rs1160312", "chromosome":20, "size":1},
+						{"name":"rs2180439", "chromosome":20, "size":1}
+					]}
+				]},
+				{ "name": "Newborn Hair Amount", "size": 1}	,
+				{ "name": "Photic Sneeze Reflex", "size": 1},
+				{ "name": "Red Hair", "size": 1, "children":[
+					{"name":"MC1R", "gene": "MC1R", "size": 1, "children":[
+						{"name":"rs1805009", "chromosome":16, "size":1},
+						{"name":"rs1805008", "chromosome":16, "size":1},
+						{"name":"rs1805007", "chromosome":16, "size":1},
+						{"name":"rs1805006", "chromosome":16, "size":1},
+						{"name":"rs11547464", "chromosome":16, "size":1},
+						{"name":"rs34474212", "chromosome":16, "size":1},
+						{"name":"rs1110400", "chromosome":16, "size":1},
+						{"name":"i3002507", "chromosome":16, "size":1},
+						{"name":"rs2228479", "chromosome":16, "size":1}
+					]}
+				]},
+				{ "name": "Skin Pigmentation", "size": 1},
+				{ "name": "Toe Length Ratio", "size": 1},
+				{ "name": "Unibrow", "size": 1},
+				{ "name": "Widow's Peak", "size": 1}
+			]
+		}, {
+			"name": "Ancestry", 
+			"topic": "Ancestry",
+			"children":[
+				{ "name": "Ancestry Composition", "size": 1},
+				{ "name": "Maternal Haplogroup", "size":1},
+				{ "name": "Paternal Haplogroup", "size":1},
+				{ "name": "Neanderthal Ancestry", "size": 1}
+			]
+		}, {
+			"name": "Carrier Status", 
+			"topic": "Carrier Status",
+			"children":[
+				{ "name": "ARSACS", "size": 1, "children": [
+					{"name":"SACS", "gene": "SACS", "size":1, "children":[
+						{"name":"rs281865117", "chromosome":13, "size":1},
+						{"name":"rs281865118", "chromosome":13, "size":1}
+					]}
+				]},
+				{ "name": "Agenesis of the Corpus Callosum", "size": 1, "children": [
+					{"name":"SLC12A6", "gene": "SLC12A6", "size":1, "children":[
+						{"name":"i501257", "chromosome":15, "size":1}
+					]}
+				]},
+				{ "name": "Autosomal Recessive Polycystic Kidney", "size": 1, "children": [
+					{"name":"PKHD1", "gene": "PKHD1", "size":1, "children":[
+						{"name":"rs28939383", "chromosome":6, "size":1},
+						{"name":"i5012612", "chromosome":6, "size":1},
+						{"name":"i5012610", "chromosome":6, "size":1}
+					]}
+				]},
+				{ "name": "Beta Thalassemia and Related Hemoglobinopathies", "size": 1, "children": [
+					{"name":"HBB", "gene": "HBB", "size":1, "children":[
+						{"name":"rs34598529", "chromosome":11, "size":1},
+						{"name":"rs33960103", "chromosome":11, "size":1},
+						{"name":"rs35724775", "chromosome":11, "size":1},
+						{"name":"rs35004220", "chromosome":11, "size":1},
+						{"name":"rs34451549", "chromosome":11, "size":1},
+						{"name":"rs34690599", "chromosome":11, "size":1},
+						{"name":"rs63750783", "chromosome":11, "size":1},
+						{"name":"rs11549407", "chromosome":11, "size":1},
+						{"name":"rs33930165", "chromosome":11, "size":1},
+						{"name":"rs33915217", "chromosome":11, "size":1}
+					]}
+				]},
+				{ "name": "Blood Syndrome", "size": 1, "children": [
+					{"name":"BLM", "gene": "BLM", "size":1, "children":[
+						{"name":"i4000396", "chromosome":15, "size":1}
+					]}
+				]},
+				{ "name": "Canavan Disease", "size": 1, "children": [
+					{"name":"ASPA", "gene": "ASPA", "size":1, "children":[
+						{"name":"rs12948217", "chromosome":17, "size":1},
+						{"name":"rs28940279", "chromosome":17, "size":1},
+						{"name":"rs28940574", "chromosome":17, "size":1}
+					]}
+				]},
+				{ "name": "Congenital Disorder of Glycosylation Type 1a", "size": 1, "children": [
+					{"name":"PMM2", "gene": " PMM2", "size":1, "children":[
+						{"name":"i5012680", "chromosome":16, "size":1},
+						{"name":"i5012679", "chromosome":16, "size":1}
+					]}
+				]},
+				{ "name": "Cystic Fibrosis", "size": 1, "children": [
+					{"name":"PMM2", "gene": " PMM2", "size":1, "children":[
+						{"name":"i3000001", "chromosome":7, "size":1},
+						{"name":"i4000292", "chromosome":7, "size":1},
+						{"name":"i4000294", "chromosome":7, "size":1},
+						{"name":"i4000296", "chromosome":7, "size":1},
+						{"name":"i4000297", "chromosome":7, "size":1},
+						{"name":"i4000291", "chromosome":7, "size":1},
+						{"name":"i4000299", "chromosome":7, "size":1},
+						{"name":"i4000300", "chromosome":7, "size":1},
+						{"name":"i4000301", "chromosome":7, "size":1},
+						{"name":"i4000305", "chromosome":7, "size":1},
+						{"name":"i4000306", "chromosome":7, "size":1},
+						{"name":"i4000307", "chromosome":7, "size":1},
+						{"name":"i4000308", "chromosome":7, "size":1},
+						{"name":"i4000309", "chromosome":7, "size":1},
+						{"name":"i4000311", "chromosome":7, "size":1},
+						{"name":"i4000313", "chromosome":7, "size":1},
+						{"name":"i4000314", "chromosome":7, "size":1},
+						{"name":"i4000315", "chromosome":7, "size":1},
+						{"name":"i4000316", "chromosome":7, "size":1},
+						{"name":"i4000317", "chromosome":7, "size":1},
+						{"name":"i4000318", "chromosome":7, "size":1},
+						{"name":"i4000321", "chromosome":7, "size":1},
+						{"name":"i4000322", "chromosome":7, "size":1},
+						{"name":"i4000324", "chromosome":7, "size":1},
+						{"name":"i4000325", "chromosome":7, "size":1},
+						{"name":"i4000319", "chromosome":7, "size":1},
+						{"name":"i4000323", "chromosome":7, "size":1}
+					]}
+				]},
+				{ "name": "D-bifunctional Protein Deficiency", "size": 1, "children": [
+					{"name":"HSD17B4", "gene": "HSD17B4", "size":1, "children":[
+						{"name":"i5007145", "chromosome":5, "size":1},
+						{"name":"i5007146", "chromosome":5, "size":1}
+					]}
+				]},
+				{ "name": "Dihydrolipoamide Dehydrogenase Deficiency", "size": 1, "children": [
+					{"name":"DLD", "gene": "DLD", "size":1, "children":[
+						{"name":"i5003700", "chromosome":7, "size":1}
+					]}
+				]},
+				{ "name": "Familial Dysautonomia", "size": 1, "children": [
+					{"name":"IKBKAP", "gene": "IKBKAP", "size":1, "children":[
+						{"name":"i4000334", "chromosome":9, "size":1}
+					]}
+				]},
+				{ "name": "Fanconi Anemia Group C", "size": 1, "children": [
+					{"name":"FANCC", "gene": "FANCC", "size":1, "children":[
+						{"name":"i4000336", "chromosome":9, "size":1},
+						{"name":"i4000412", "chromosome":9, "size":1},
+						{"name":"i4000413", "chromosome":9, "size":1}
+					]}
+				]},
+				{ "name": "GRACILE Syndrome", "size": 1, "children": [
+					{"name":"BCS1L", "gene": "BCS1L", "size":1, "children":[
+						{"name":"i5012660", "chromosome":2, "size":1}
+					]}
+				]},
+				{ "name": "Gaucher Disease Type 1", "size": 1, "children": [
+					{"name":"GBA", "gene": "GBA", "size":1, "children":[
+						{"name":"i4000415", "chromosome":1, "size":1},
+						{"name":"i4000417", "chromosome":1, "size":1},
+						{"name":"i4000419", "chromosome":1, "size":1}
+					]}
+				]},
+				{ "name": "Glycogen Storage Disease Type 1a", "size": 1, "children": [
+					{"name":"G6PC", "gene": "G6PC", "size":1, "children":[
+						{"name":"i3002486", "chromosome":17, "size":1}
+					]}
+				]},
+				{ "name": "Glycogen Storage Disease Type 1b", "size": 1, "children": [
+					{"name":"SLC37A4", "gene": "SLC37A4", "size":1, "children":[
+						{"name":"i5012880", "chromosome":11, "size":1},
+						{"name":"i5012878", "chromosome":11, "size":1}
+					]}
+				]},
+				{ "name": "Hereditary Fructose Intolerance", "size": 1, "children": [
+					{"name":"ALDOB", "gene": "ALDOB", "size":1, "children":[
+						{"name":"rs1800546", "chromosome":9, "size":1},
+						{"name":"i5012664", "chromosome":9, "size":1},
+						{"name":"i5012665", "chromosome":9, "size":1}
+					]}
+				]},
+				{ "name": "Herlitz Junctional Epidermolysis Bullosa", "size": 1, "children": [
+					{"name":"LAMB3", "gene": "LAMB3", "size":1, "children":[
+						{"name":"i5012672", "chromosome":9, "size":1},
+						{"name":"i5012669", "chromosome":9, "size":1},
+						{"name":"i5012671", "chromosome":9, "size":1}
+					]}
+				]},
+				{ "name": "Leigh Syndrome", "size": 1, "children": [
+					{"name":"LRPPRC", "gene": "LRPPRC", "size":1, "children":[
+						{"name":"i5012749", "chromosome":2, "size":1}
+					]}
+				]},
+				{ "name": "Limb-Girdle Muscular Dystrophy Type 2D", "size": 1, "children": [
+					{"name":"SGCA", "gene": "SGCA", "size":1, "children":[
+						{"name":"rs28933693", "chromosome":17, "size":1}
+					]}
+				]},
+				{ "name": "Limb-Girdle Muscular Dystrophy Type 2E", "size": 1, "children": [
+					{"name":"SGCB", "gene": "SGCB", "size":1, "children":[
+						{"name":"rs28936383", "chromosome":4, "size":1}
+					]}
+				]},
+				{ "name": "Limb-Girdle Muscular Dystrophy Type 2I", "size": 1, "children": [
+					{"name":"FKRP", "gene": "FKRP", "size":1, "children":[
+						{"name":"rs28937900", "chromosome":19, "size":1}
+					]}
+				]},
+				{ "name": "MCAD Deficiency", "size": 1, "children": [
+					{"name":"ACADM", "gene": "ACADM", "size":1, "children":[
+						{"name":"i5012759", "chromosome":1, "size":1},
+						{"name":"i5012760", "chromosome":1, "size":1},
+						{"name":"i5003117", "chromosome":1, "size":1}
+					]}
+				]},
+				{ "name": "Maple Syrup Urine Disease Type 1B", "size": 1, "children": [
+					{"name":"BCKDHB", "gene": "BCKDHB", "size":1, "children":[
+						{"name":"i3002808", "chromosome":6, "size":1},
+						{"name":"i4000422", "chromosome":6, "size":1}
+					]}
+				]},
+				{ "name": "Mucolipidosis Type IV", "size": 1, "children": [
+					{"name":"MCOLN1", "gene": "MCOLN1", "size":1, "children":[
+						{"name":"i4000425", "chromosome":19, "size":1}
+					]}
+				]},
+				{ "name": "Neuronal Ceroid Lipofuscinosis (CLN5-Related)", "size": 1, "children": [
+					{"name":"CLN5", "gene": "CLN5", "size":1, "children":[
+						{"name":"i5012678", "chromosome":13, "size":1}
+					]}
+				]},
+				{ "name": "Neuronal Ceroid Lipofuscinosis (PPT1-Related)", "size": 1, "children": [
+					{"name":"PPT1", "gene": "PPT1", "size":1, "children":[
+						{"name":"i5012624", "chromosome":1, "size":1},
+						{"name":"i5012622", "chromosome":1, "size":1},
+						{"name":"i5012623", "chromosome":1, "size":1}
+					]}
+				]},
+				{ "name": "Niemann-Pick Disease Type A", "size": 1, "children": [
+					{"name":"SMPD1", "gene": "SMPD1", "size":1, "children":[
+						{"name":"i4000381", "chromosome":11, "size":1},
+						{"name":"i4000383", "chromosome":11, "size":1},
+						{"name":"i4000430", "chromosome":11, "size":1}
+					]}
+				]},
+				{ "name": "Nijmegen Breakage Syndrome", "size": 1, "children": [
+					{"name":"NBN", "gene": "NBN", "size":1, "children":[
+						{"name":"i5012770", "chromosome":8, "size":1}
+					]}
+				]},
+				{ "name": "Nonsyndormic Hearing Loss (GJB2-Related)", "size": 1, "children": [
+					{"name":"GJB2", "gene": "GJB2", "size":1, "children":[
+						{"name":"i4000434", "chromosome":13, "size":1},
+						{"name":"i4000435", "chromosome":13, "size":1}
+					]}
+				]},
+				{ "name": "Pendred Syndrome", "size": 1, "children": [
+					{"name":"SLC26A4", "gene": "SLC26A4", "size":1, "children":[
+						{"name":"i5012616", "chromosome":7, "size":1},
+						{"name":"i5000003", "chromosome":7, "size":1},
+						{"name":"i5012618", "chromosome":7, "size":1},
+						{"name":"i5000693", "chromosome":7, "size":1},
+						{"name":"i5000002", "chromosome":7, "size":1},
+						{"name":"i5000696", "chromosome":7, "size":1}
+					]}
+				]},
+				{ "name": "Phenylketonuria", "size": 1, "children": [
+					{"name":"PAH", "gene": "PAH", "size":1, "children":[
+						{"name":"i4000470", "chromosome":12, "size":1},
+						{"name":"rs5030841", "chromosome":12, "size":1},
+						{"name":"i4000472", "chromosome":12, "size":1},
+						{"name":"i4000473", "chromosome":12, "size":1},
+						{"name":"i3003397", "chromosome":12, "size":1},
+						{"name":"i4000481", "chromosome":12, "size":1},
+						{"name":"i3003398", "chromosome":12, "size":1},
+						{"name":"i3003399", "chromosome":12, "size":1},
+						{"name":"rs5030849", "chromosome":12, "size":1},
+						{"name":"i3003400", "chromosome":12, "size":1},
+						{"name":"i4000467", "chromosome":12, "size":1},
+						{"name":"i4000478", "chromosome":12, "size":1},
+						{"name":"i3003401", "chromosome":12, "size":1},
+						{"name":"rs5030853", "chromosome":12, "size":1},
+						{"name":"i4000476", "chromosome":12, "size":1},
+						{"name":"i3003403", "chromosome":12, "size":1},
+						{"name":"rs5030857", "chromosome":12, "size":1},
+						{"name":"rs5030858", "chromosome":12, "size":1},
+						{"name":"i3003404", "chromosome":12, "size":1},
+						{"name":"rs28934899", "chromosome":12, "size":1},
+						{"name":"i3003405", "chromosome":12, "size":1},
+						{"name":"rs5030855", "chromosome":12, "size":1},
+						{"name":"rs5030861", "chromosome":12, "size":1}
+					]}
+				]},
+				{ "name": "Primary Hyperoxaluria Type 2", "size": 1, "children": [
+					{"name":"GRHPR", "gene": "GRHPR", "size":1, "children":[
+						{"name":"i5012628", "chromosome":9, "size":1}
+					]}
+				]},
+				{ "name": "Rhiomelic Chondrodysplasia Punctata Type 1", "size": 1, "children": [
+					{"name":"PEX7", "gene": "PEX7", "size":1, "children":[
+						{"name":"i3002517", "chromosome":6, "size":1}
+					]}
+				]},
+				{ "name": "Salla Disease", "size": 1, "children": [
+					{"name":"SLC17A5", "gene": "SLC17A5", "size":1, "children":[
+						{"name":"i5012634", "chromosome":6, "size":1}
+					]}
+				]},
+				{ "name": "Sickle Cell Anemia", "size": 1, "children":[
+					{"name":"HBB", "gene": "HBB", "size":1, "children":[
+						{"name":"i3003137", "chromosome":11, "size":1}
+					]}
+				]},
+				{ "name": "Sjögren-Larsson Syndrom", "size": 1, "children":[
+					{"name":"ALDH3A2", "gene": "ALDH3A2", "size":1, "children":[
+						{"name":"rs72547571", "chromosome":17, "size":1}
+					]}
+				]},
+				{ "name": "Tay-Sachs Disease", "size": 1, "children":[
+					{"name":"HEXA", "gene": "HEXA", "size":1, "children":[
+						{"name":"i5012862", "chromosome":15, "size":1},
+						{"name":"i5012861", "chromosome":15, "size":1},
+						{"name":"i5012865", "chromosome":15, "size":1},
+						{"name":"i5012867", "chromosome":15, "size":1}
+					]}
+				]},
+				{ "name": "Tyrosinemia Type 1", "size": 1, "children":[
+					{"name":"FAH", "gene": "FAH", "size":1, "children":[
+						{"name":"rs72547571", "chromosome":15, "size":1}
+					]}
+				]},
+				{ "name": "Usher Syndrome Type 1F", "size": 1, "children":[
+					{"name":"PCDH15", "gene": "PCDH15", "size":1, "children":[
+						{"name":"i5012804", "chromosome":10, "size":1}
+					]}
+				]},
+				{ "name": "Usher Syndrome Type 3A", "size": 1, "children":[
+					{"name":"CLRN1", "gene": "CLRN1", "size":1, "children":[
+						{"name":"i4990151", "chromosome":3, "size":1}
+					]}
+				]},
+				{ "name": "Zellweger Syndrome Spectrum", "size": 1, "children":[
+					{"name":"PEX1", "gene": "PEX1", "size":1, "children":[
+						{"name":"i5012688", "chromosome":7, "size":1}
+					]}
+				]}
+			]
+		}, {
+			"name": "Genetic Health Risk", 
+			"topic": "Genetic Health Risk",
+			"children":[
+				{ "name": "Age-Related Muscular Degeneration", "size": 1, "children":[
+					{"name":"CFH", "gene": "CFH", "size":1, "children":[
+						{"name":"rs1061170", "chromosome":1, "size":1}
+					]},
+					{"name":"ARMS2", "gene": "ARMS2", "size":1, "children":[
+						{"name":"rs10490924", "chromosome":10, "size":1}
+					]}
+				]},
+				{ "name": "Late-Onset Alzheimer's Disease", "size": 1, "children":[
+					{"name":"APOE", "gene": "APOE", "size":1, "children":[
+						{"name":"rs429358", "chromosome":19, "size":1}
+					]}
+				]},
+				{ "name": "Parkinson's Disease", "size": 1, "children":[
+					{"name":"LRRK2", "gene": "LRRK2", "size":1, "children":[
+						{"name":"rs34637584", "chromosome":12, "size":1}
+					]},
+					{"name":"GBA", "gene": "GBA", "size":1, "children":[
+						{"name":"i4000415", "chromosome":1, "size":1}
+					]}
+				]},
+				{ "name": "Alpha-1 Antitrypsin Disease", "size": 1, "children":[
+					{"name":"SERPINA1", "gene": "SERPINA1", "size":1, "children":[
+						{"name":"rs28929474", "chromosome":14, "size":1},
+						{"name":"rs17580", "chromosome":14, "size":1}
+					]}
+				]},
+				{ "name": "Celiac Disease", "size": 1, "children":[
+					{"name":"HLA-DQA1", "gene": "HLA-DQA1", "size":1, "children":[
+						{"name":"rs2187668", "chromosome":6, "size":1}
+					]},
+					{"name":"HLA-DQB1", "gene": "HLA-DQB1", "size":1, "children":[
+						{"name":"rs7454108", "chromosome":6, "size":1}
+					]}
+				]},
+				{ "name": "Herediatry Hemochromatosis (HFE-Related)", "size": 1, "children":[
+					{"name":"HFE", "gene": "HFE", "size":1, "children":[
+						{"name":"rs1800562", "chromosome":6, "size":1},
+						{"name":"rs1799945", "chromosome":6, "size":1}
+					]}
+				]},
+				{ "name": "Hereditary Thrombophilia", "size": 1, "children":[
+					{"name":"F5", "gene": "F5", "size":1, "children":[
+						{"name":"rs6025", "chromosome":1, "size":1}
+					]},
+					{"name":"F2", "gene": "F2", "size":1, "children":[
+						{"name":"i3002432", "chromosome":11, "size":1}
+					]}
+				]}
+
+			]
+		}, {
+			"name": "Wellness", 
+			"topic": "Wellness",
+			"children":[
+				{ "name": "Lactose Intolerance", "size": 1, "children": [
+					{"name": "MCM6", "gene": "MCM6", "size":1, "children":[
+						{"name":"rs4988235", "chromosome": 2, "size": 1},
+						{"name":"rs182549", "chromosome": 2, "size": 1}
+					]}
+				]},
+				{ "name": "Saturated Fat and Weight", "size": 1},
+				{ "name": "Alcohol Flush Reaction", "size": 1, "children": [
+					{"name": "rs671", "gene": "ALDH2", "chromosome":12, "size":1}
+				]},
+				{ "name": "Caffine Consumption", "size": 1},
+				{ "name": "Deep Sleep", "size": 1},
+				{ "name": "Muscle Composition", "size": 1},
+				{ "name": "Genetic Weight", "size": 1},
+				{ "name": "Sleep Movement", "size": 1}
+			]
+		}
+  	]
+}

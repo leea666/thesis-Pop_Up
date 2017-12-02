@@ -1,0 +1,134 @@
+{
+	"name": "Chromosome #", "children": [ {
+			"name": "Chromosome 1",
+			"children":[
+				{ "name": "rs287235", "chromosome": 1, "genotype": "CC", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 2", 
+			"children":[
+				{ "name": "rs838552", "chromosome": 2, "genotype": "AA", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 3", 
+			"children":[
+				{ "name": "rs10513789", "chromosome": 3, "genotype": "GT", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 4", 
+			"children":[
+				{ "name": "rs6812193", "chromosome": 4, "genotype": "CC", "size": 1},
+				{ "name": "rs283413", "chromosome": 4, "genotype": "CC", "size": 1},
+				{ "name": "rs356219", "chromosome": 4, "genotype": "AG", "size": 1},
+				{ "name": "rs10513789", "chromosome": 3, "genotype": "GT", "size": 1},
+				{ "name": "rs10513789", "chromosome": 3, "genotype": "GT", "size": 1},
+				{ "name": "rs10513789", "chromosome": 3, "genotype": "GT", "size": 1},
+				{ "name": "rs10513789", "chromosome": 3, "genotype": "GT", "size": 1},
+				{ "name": "rs10513789", "chromosome": 3, "genotype": "GT", "size": 1},
+				{ "name": "rs10513789", "chromosome": 3, "genotype": "GT", "size": 1},
+				{ "name": "rs10513789", "chromosome": 3, "genotype": "GT", "size": 1}
+
+			]
+		}, {
+			"name": "Chromosome 5", 
+			"children":[
+				
+			]
+		}, {
+			"name": "Chromosome 6", 
+			"children":[
+				{ "name": "rs361525", "chromosome": 6, "genotype": "GG", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 7", 
+			"children":[
+				{ "name": "i3000001", "chromosome": 7, "genotype": "II", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 8", 
+			"children":[
+   				{"name": "rs987525", "chromosome": 8, "genotype": "AC", "size": 1}
+  			]
+  		}, {
+  			"name": "Chromosome 9", 
+  			"children":[
+				
+			]
+		}, {
+			"name": "Chromosome 10", 
+			"children":[
+				
+			]
+		}, {
+			"name": "Chromosome 11", 
+			"children":[
+				{ "name":   "i3003137", "chromosome": 11, "genotype": "TT", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 12", 
+			"children":[
+				{ "name": "rs671", "chromosome": 12, "genotype": "GG", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 13", 
+			"children":[
+				{ "name": "rs28942074", "chromosome": 13, "genotype": "CC", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 14", 
+			"children":[
+				{ "name": "rs1953558", "chromosome": 14, "genotype": "CT", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 15", 
+			"children":[
+				{ "name":   "i4000436", "chromosome": 15, "genotype": "CC", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 16", 
+			"children":[
+				{ "name":"rs17822931", "chromosome": 16,"genotype": "CT", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 17", 
+			"children":[
+				{ "name": "rs393152", "chromosome": 17, "genotype": "AA", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 18", 
+			"children":[
+				
+			]
+		}, {
+			"name": "Chromosome 19", 
+			"children":[
+				{ "name": "rs601338", "chromosome": 19, "genotype": "GG", "size": 1}
+			]
+		}, {
+			"name": "Chromosome 20", 
+			"children":[
+				
+			]
+		}, {
+			"name": "Chromosome 21", 
+			"children":[
+				
+			]
+		}, {
+			"name": "Chromosome 22", 
+			"children":[
+				
+			]
+		}, {
+			"name": "Chromosome X", 
+			"children":[
+				
+			]
+		}, {
+			"name": "Chromosome Y", 
+			"children":[
+				
+			]
+		}
+  	]
+}
